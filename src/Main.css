@@ -1,0 +1,23 @@
+h1, h2, h3, h4 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Dosis', sans-serif;
+}
+
+.Title, .main, .searchHeader{
+    text-align: center;
+    font-weight: bold;
+    text-decoration-color: darkcyan;
+}
+
+ul, li {
+    text-align: left;
+}
+
+.inputField{
+    font-family: 'Dosis', sans-serif;
+}
+
